@@ -10,3 +10,4 @@ Monorepo structure:
 Project List:
 - Brute Forced Coding. Explore methods of optimizating by trying to brute 
 force all possible python programs that are 1000 lines.
+- md_stats: reports basic metrics on a collection of .md files
