@@ -1,0 +1,38 @@
+<mxfile host="Electron" modified="2023-08-16T03:49:41.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="DhRhIi34a9WCrQDjSk4y" version="21.6.5" type="device">
+  <diagram name="Page-1" id="hmEKueG6zGpYSEXip0dn">
+    <mxGraphModel dx="937" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_Fy6bXsCZvbTVDBgMAH1-9" value="EB_Computer Subsystems" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="70" width="560" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="_Fy6bXsCZvbTVDBgMAH1-10" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" parent="_Fy6bXsCZvbTVDBgMAH1-9" vertex="1">
+          <mxGeometry width="560" height="203" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Fy6bXsCZvbTVDBgMAH1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="_Fy6bXsCZvbTVDBgMAH1-9" source="_Fy6bXsCZvbTVDBgMAH1-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="86.33333333333337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Fy6bXsCZvbTVDBgMAH1-11" value="Electric Bike Computer&amp;nbsp; - Subsystems" style="html=1;whiteSpace=wrap;" parent="_Fy6bXsCZvbTVDBgMAH1-9" vertex="1">
+          <mxGeometry x="280" y="70" width="90" height="45.36" as="geometry" />
+        </mxCell>
+        <mxCell id="_Fy6bXsCZvbTVDBgMAH1-16" value="Compute Model" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="398" y="245" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_Fy6bXsCZvbTVDBgMAH1-17" value="Camera" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="278" y="245" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_Fy6bXsCZvbTVDBgMAH1-18" value="Power Supply" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="148" y="245" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_Fy6bXsCZvbTVDBgMAH1-19" value="Packaging" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="528" y="245" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
